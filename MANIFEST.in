@@ -1,0 +1,2 @@
+recursive-include dash_react_flow/** *.js *.css *.json *.html
+prune tests
